@@ -1,0 +1,14 @@
+
+#pagination{
+    width:500px;
+    height:100px;
+    background-color: burlywood;
+}
+
+.page{
+    width:35px;
+    height:35px;
+    border: 1px solid black;
+    margin:5px;
+    display: inline-block;
+}
